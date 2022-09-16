@@ -4,7 +4,7 @@ Sports a simple GUI built with QT
 
 Under GNU license
 
-Download link: https://sourceforge.net/projects/bincon/
+Download link (for MacOS): https://sourceforge.net/projects/bincon/
 
 Known issues:
 the converted ouputs cannot exceed the INT_MAX limit - fix coming in the next update
